@@ -1,0 +1,3 @@
+export DISCORD_TOKEN=
+export ROVACC_CORE_ENDPOINT=https://core.rovacc.ro/
+export PORT=8080
